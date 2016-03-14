@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Complex Modular Design</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>Title 1</item>
+        <item>Title 2</item>
+        <item>Title 3</item>
+        <item>Title 4</item>
+        <item>Title 5</item>
+        <item>Title 6</item>
+        <item>Title 7</item>
+        <item>Title 8</item>
+        <item>Title 9</item>
+        <item>Title 10</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Description 1</item>
+        <item>Description 1</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+        <item>Description 5</item>
+        <item>Description 6</item>
+        <item>Description 7</item>
+        <item>Description 8</item>
+        <item>Description 9</item>
+        <item>Description 10</item>
+    </string-array>
+    <string name="title_activity_description">DescriptionActivity</string>
+    <string name="pos_main">positionFromMainActivity</string>
+    <string name="pos_des_frag">positionOnDescriptionFragment</string>
+</resources>
